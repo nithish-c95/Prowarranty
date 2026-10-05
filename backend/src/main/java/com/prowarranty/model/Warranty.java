@@ -68,3 +68,5 @@ public class Warranty {
     public String getStatus() { return status; }
     public void setStatus(String status) { this.status = status; }
 }
+
+// Updated Oct 5, 2026
