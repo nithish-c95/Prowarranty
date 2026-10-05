@@ -92,3 +92,5 @@ The frontend will start at `http://localhost:3000`
 ## License
 
 MIT
+
+*Last updated: Oct 5, 2026*
