@@ -28,3 +28,5 @@ public class WarrantyService {
         return warrantyRepository.save(warranty);
     }
 }
+
+// Updated Oct 5, 2026
