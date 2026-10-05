@@ -61,3 +61,5 @@ public class AuthController {
         return ResponseEntity.ok(response);
     }
 }
+
+// Updated Oct 5, 2026
