@@ -10,3 +10,5 @@ public class ProWarrantyApplication {
         SpringApplication.run(ProWarrantyApplication.class, args);
     }
 }
+
+// Updated Oct 5, 2026
