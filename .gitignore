@@ -35,3 +35,7 @@ mvnw.cmd
 
 # H2 console files
 *.h2.db
+
+# Java compiled output
+*.class
+
