@@ -38,3 +38,5 @@ public class Claim {
     public LocalDate getDateSubmitted() { return dateSubmitted; }
     public void setDateSubmitted(LocalDate dateSubmitted) { this.dateSubmitted = dateSubmitted; }
 }
+
+// Updated Oct 5, 2026
