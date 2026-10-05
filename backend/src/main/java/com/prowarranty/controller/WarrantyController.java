@@ -34,3 +34,5 @@ public class WarrantyController {
         return ResponseEntity.ok(response);
     }
 }
+
+// Updated Oct 5, 2026
