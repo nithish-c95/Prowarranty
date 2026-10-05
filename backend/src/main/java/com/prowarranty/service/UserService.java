@@ -61,3 +61,5 @@ public class UserService implements UserDetailsService {
         return resp;
     }
 }
+
+// Updated Oct 5, 2026
